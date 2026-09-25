@@ -32,4 +32,4 @@ Displacement keys are z q s d, and shift to go faster.
 
 # Demo
 
-![gif][./public/3d-engine.gif]
+![gif][public/3d-engine.gif]
